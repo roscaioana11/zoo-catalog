@@ -1,0 +1,12 @@
+assignment/service/AnimalService.java
+ assignment.service.AnimalService
+assignment/entity/Animal.java
+ assignment.entity.Animal
+assignment/repository/Repository.java
+ assignment.repository.Repository
+assignment/repository/AnimalRepository.java
+ assignment.repository.AnimalRepository
+assignment/ui/Ui.java
+ assignment.ui.Ui
+assignment/ZooCatalog.java
+ assignment.ZooCatalog
